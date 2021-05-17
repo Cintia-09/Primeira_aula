@@ -22,7 +22,7 @@ public class projeto
 
     
     {
-        // escreva seu código aqui
+        // escreva 
          System.out.print(oi); 
     }
 }
