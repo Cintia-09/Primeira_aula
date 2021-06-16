@@ -3,9 +3,9 @@ public interface FormaGeometrica{
      
     
     
-public double SetPerimetro();
+public double Perimetro();
 
-public double SetArea();
+public double Area();
 
 
 
