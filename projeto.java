@@ -17,12 +17,12 @@ public class projeto
     {
         // inicializa variáveis de instância
         n = oi;
-        System.out.print(oi); 
+        System.out.println(oi); 
     }
 
     
     {
         // escreva seu código aqui
-         System.out.print(oi); 
+         System.out.println(oi); 
     }
 }
