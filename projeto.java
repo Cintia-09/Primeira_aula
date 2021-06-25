@@ -17,6 +17,7 @@ public class projeto
     {
         // inicializa variáveis de instância
         n = oi;
+<<<<<<< HEAD
         System.out.println(oi); 
     }
 
@@ -24,5 +25,14 @@ public class projeto
     {
         // escreva seu código aqui
          System.out.println(oi); 
+=======
+        System.out.print(oi); 
+    }
+
+    
+    {
+        // escreva 
+         System.out.print(oi); 
+>>>>>>> 18a4eb9c72096b5db849862c72cc858c6f8af347
     }
 }
