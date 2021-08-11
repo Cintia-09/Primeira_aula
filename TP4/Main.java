@@ -6,8 +6,8 @@ public class Main {
         int a[] = new int[10]; 
         int b[] = new int[10]; 
         for(int i = 0;i<10;i++){
-            a[i] = 0;
-            b[i] = i;
+            a[i] = i;
+            b[i] = 0;
         }
 
         Excecao teste = new Excecao();
